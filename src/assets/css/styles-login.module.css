@@ -1,0 +1,19 @@
+.loginImg {
+  background-image: url("../img/login-bg.jpg");
+  height: 100vh;
+  width: 100%;
+  background-size: cover;
+}
+
+.loginForm {
+  display: flex;
+  background-color: transparent;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+ 
+}
+
+.textColor{
+  color: rgb(15, 240, 15);
+}
